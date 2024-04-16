@@ -1,0 +1,193 @@
+/* navbar-sec */
+.navbar-sec{
+    background-color:white;
+    color:black;
+}
+
+.login1{
+    background-color:rgb(120, 59, 12);
+    border-color: rgb(88, 46, 13);
+    color: white;
+}
+.button-box{
+    background-color: black;
+}
+.button1{
+    border: none;
+    background-color: rgb(76, 216, 209);
+    float: inline-end;
+}
+/* offer-sec */
+.offer-sec{
+    background-color: rgb(48, 202, 194);
+}
+.offer-inbox{
+    text-align: center;
+    color: white;
+}
+/* banner-sec */
+.banner-sec{
+background-image: url(banner2.jpg);
+max-height:100vh;
+background-repeat:no-repeat;
+background-size: cover;
+padding: 150px;
+/* background-position: center; */
+}
+.button{
+    background-color: rgb(58, 56, 53);
+    border-color:rgb(96, 96, 90);
+    color: rgb(255, 255, 255);
+}
+.banner-inbox{
+    /* margin-top:230px;  */
+    color: rgb(255, 255, 255);
+}
+.para1{
+    color:rgb(255, 255, 255);
+}
+
+.icon-sec{
+    padding: 80px;
+}
+
+.gift-inbox,.icon-inbox,.off-inbox,.delivery-inbox{
+    text-align: center;
+    /* margin-top: 80px; */
+    /* max-height:auto; */
+    /* margin-bottom: 80px; */
+}
+.underline{
+    background-color: brown;
+}
+/* .registry-section */
+.registry-sec{
+    background-color: rgb(141, 238, 238);
+    padding:100px;
+}
+.registry-inbox0{
+    /* margin-top:80px; */
+    text-align: center;
+  }
+.registry-inbox{
+    /* margin-top:80px; */
+    text-align: center;
+  }
+ .line{
+    width:60%;
+    height:2px;
+     background-color: white;
+    display:inline-block;
+}
+.button-inbox{
+    text-align: center;
+    margin-top: 30px;
+    /* margin-bottom: 100px; */
+}
+/* rate-section */
+.rate-sec{
+    /* margin-top: 50px; */
+    text-align: center;
+    padding: 80px;
+ 
+}
+.image{
+    height: 100px;
+}
+.image1{
+    height: 100px;
+}
+.image-inbox{
+    text-align: center;
+    /* margin-top: 50px; */
+    /* margin-bottom: 100px; */
+}
+.start-sec{
+    background-image: url(./wedding.jpg);
+    max-height:100vh; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+.inbox-couple{
+    /* margin-top: 80px; */
+    color: white;
+}
+
+.color{
+    color: orange;
+}
+ /* crew-section */
+ .crew-sec{
+    padding: 80px;
+ }
+.shipping-inbox,.exchange-inbox,.price-inbox{
+    text-align: center;
+    /* margin-top: 80px; */
+}
+.piggy-inbox,.note-inbox,.women-inbox{
+    text-align: center;
+    /* margin-bottom: 50px; */
+}
+
+
+/* sign-up section  */
+.signup-sec{
+    background-color:rgb(48, 202, 194);
+    padding: 50px;
+
+}
+.signup-inbox{
+    text-align: center;
+    color: white;
+    /* margin:; */
+}
+.signup{
+    text-align: center; 
+    /* font-family:NSimSun; */
+}
+.heading-inbox{
+    text-align: center;
+    /* margin-top: 50px; */
+}
+@media(max-width:800px){
+    .start-sec{
+        padding: 20px;
+    }
+}
+@media(max-width:1199px){
+    .rate-sec{
+        padding: 20px;
+    }
+}
+@media(max-width:1199px){
+    .crew-sec{
+        padding: 20px;
+    }
+}
+@media(max-width:1199px){
+    .icon-sec{
+        padding: 20px;
+    }
+}
+@media(max-width:1199px){
+    .registry-sec{
+        padding: 20px;
+    }
+}
+
+@media(max-width:530px){
+    .banner-sec{
+     padding: 10px;
+    }
+}
+ @media(max-width:707px){ 
+    .banner-sec{
+      padding:20px; 
+    }
+}
+@media(max-width:930px){ 
+    .banner-sec{
+      padding:60px; 
+    }
+}
